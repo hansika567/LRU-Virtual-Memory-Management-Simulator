@@ -24,10 +24,10 @@ This project simulates virtual memory management using the Least Recently Used (
 ```
 LRU-Virtual-Memory-Management-Simulator
 │
-├── main.cpp
+├── code.cpp
 ├── screenshots
-│   ├── output1.png
-│   └── output2.png
+│   ├── statistics.png
+│   └── page_table.png
 └── README.md
 ```
 
