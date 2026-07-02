@@ -36,7 +36,7 @@ LRU-Virtual-Memory-Management-Simulator
 Compile
 
 ```bash
-g++ main.cpp -o simulator
+g++ code.cpp -o simulator
 ```
 
 Run
